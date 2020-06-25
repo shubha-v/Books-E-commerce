@@ -149,8 +149,8 @@
 		<div class="panel-footer panel-custom">
 			<center>
 				<p><h2>Contact Details</h2></p>
-				<p>Email: vshubha1998@gmail.com / angeltejaswini1998@gmail.com</p>
-				<p>Phone: 8970141162  </p>
+				<p>Email: vshubha1998@gmail.com</p>
+				<p>Phone: **********  </p>
 				<p>Address: Bangalore</p>
 				<a href="https://www.instagram.com/?hl=en"><i style="font-size:24px" class="fa">&#xf16d;</i></a>&nbsp;
 				<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><i style="font-size:24px" class="fa">&#xf0d5;</i></a>&nbsp;
